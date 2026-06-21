@@ -1,0 +1,8 @@
+{
+  "name": "Event Plaza Website",
+  "description": "Event Management Agency Website featuring Home, Services, Portfolio, About, Pricing, and Contact sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
